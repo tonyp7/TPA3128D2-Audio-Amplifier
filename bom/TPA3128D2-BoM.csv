@@ -1,0 +1,16 @@
+﻿RefDes,Description,Manufacturer,Quantity,Manufacturer Part Number,Comment
+"C1, C4","100uF, 6.3x7.7",ROQANG,2,RT1E101M0607,Any 6mm SMT cap will work
+"C2, C5","100nF, 0603, X7R, 50V",Yageo,2,CC0603KRX7R9BB104,
+"C3, C6","1nF, 0603, X7R, 50V",Yageo,2,CC0603KRX7R9BB102,
+"C7, C8, C9, C10","220nF, 0603, X7R, 50V",Yageo,4,CC0603KRX7R9BB224,
+"C11, C12, C13, C14","680nF, 0805, X7R, 50V",Yageo,4,CC0805KKX7R9BB684,
+"C15, C16, C17, C18, C19","1uF, 0603, X7R, 16V",Samsung Electro-Mechanics,5,CL10B105KO8NNNC,
+C20,"47pF, 0603, NP0, 50V",Yageo,1,CC0603JRNPO9BN470,
+J1,Audio Jack Connector,Boom Precision Elec,1,PJ-320B,
+"J2, J3","Terminal Block, 5mm",Ningbo Kangnex Elec,2,WJ301V-5.0-2P,"Any 5mm block will work, such as Multicomp MC24356-2."
+J5,"DC Jack, 2mm",Boom Precision Elec,1,DC-005 5.5-2.0MM,This a standard through-hole DC jack such as the ones you can find on Arduinos.
+"L1, L2, L3, L4",10uH,Cenker,4,CKCS4030-10uH/M,"Inductors in standard 4mm footprint will work.See: Bourns SRP4020 series, Abracon ASPI-4030 series, Wurth Electronics LQS 4025 series"
+"R1, R3, R5, R6","100k, 0603, 1%, 1/10W",Yageo,4,RC0603FR-07100KL,
+R2,"20k, 0603, 1%, 1/10W",Yageo,1,RC0603FR-0720KL,
+R4,"4.7k, 0603, 1%, 1/10W",Yageo,1,RC0603FR-074K7L,
+U1,TPA3128D2,Texas Instruments,1,TPA3128D2DAPR ,
